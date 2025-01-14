@@ -1,1 +1,3 @@
-# Glaze-Component-Library
+# Glaze Component Library
+
+Coming soon!
